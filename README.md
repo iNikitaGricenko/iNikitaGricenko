@@ -1,4 +1,4 @@
-# Hi there ✌ You’re in github profile of Nikita Hrytsenko
+# Hi there ✌ <br> **You’re in github profile of Nikita Hrytsenko**
 
 ### About:
 ```
@@ -8,8 +8,8 @@
  🧑‍💼 Member of the faceIT-team
  🧡🤎 Love two things: working as a programmer and the Java programming language
 ```
-### Okey now I let you surfing on my profile. But remember:
- #### 👀 I’m watching you 👀
+### Okey now I let you surfing on my profile. But remember: 
+ #### ***👀 I’m watching you 👀***
  ![Watching you](https://miro.medium.com/max/724/1*lhOax3cZATGZwEhG0uTYRA.gif)
 <!--
 **iNikitaGricenko/iNikitaGricenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
