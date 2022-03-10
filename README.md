@@ -8,9 +8,11 @@
  🧑‍💼 Member of the faceIT-team
  🧡🤎 Love two things: working as a programmer and the Java programming language
 ```
-### Okey now I let you surfing on my profile. But remember: 
+### Okey now I let you surfing on my profile. But remember:
  #### ***👀 I’m watching you 👀***
- ![Watching you](https://miro.medium.com/max/724/1*lhOax3cZATGZwEhG0uTYRA.gif)
+<p align="center">
+  <img height="100%" src="https://miro.medium.com/max/724/1*lhOax3cZATGZwEhG0uTYRA.gif">
+</p>
 <!--
 **iNikitaGricenko/iNikitaGricenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
