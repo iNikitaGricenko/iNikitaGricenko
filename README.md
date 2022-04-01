@@ -3,7 +3,6 @@
 ### About:
 ```
  🌆 I am living in Ukraine - Zaporizhzhya
- 🧑‍🎓 Student of ZIEIT (Zaporizhzhya Institute of Economics and Information Technologies)
  🧑‍💻 Java backend developer
  🧑‍💼 Member of the faceIT-team
  🧡🤎 Love two things: working as a programmer and the Java programming language
