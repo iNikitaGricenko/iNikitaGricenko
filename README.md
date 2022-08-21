@@ -6,7 +6,7 @@
  🧑‍💻 Java backend developer
  🧡🤎 Love two things: working as a programmer and the Java programming language
  I recommend to watch:
-  - Have a look https://github.com/iNikitaGricenko/ComputerSystem/
+  - Have a look [Current current working repository](https://github.com/iNikitaGricenko/ComputerSystem)
 ```
 ### Okey now I let you surfing on my profile. But remember:
  #### ***👀 I’m watching you 👀***
