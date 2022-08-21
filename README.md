@@ -4,7 +4,6 @@
 ```
  🌆 I am living in Ukraine - Zaporizhzhya
  🧑‍💻 Java backend developer
- 🧑‍💼 Member of the faceIT-team
  🧡🤎 Love two things: working as a programmer and the Java programming language
 ```
 ### Okey now I let you surfing on my profile. But remember:
