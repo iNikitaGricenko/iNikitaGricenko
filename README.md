@@ -5,9 +5,9 @@
  🌆 I am living in Ukraine - Zaporizhzhya
  🧑‍💻 Java backend developer
  🧡🤎 Love two things: working as a programmer and the Java programming language
- I recommend to watch:
-  - Have a look [Current current working repository](https://github.com/iNikitaGricenko/ComputerSystem)
 ```
+ ### I recommend to watch:
+  - Have a look at [Current working repository](https://github.com/iNikitaGricenko/ComputerSystem)
 ### Okey now I let you surfing on my profile. But remember:
  #### ***👀 I’m watching you 👀***
 <p align="center">
