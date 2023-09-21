@@ -7,7 +7,9 @@
  🧡🤎 Love two things: working as a programmer and the Java programming language
 ```
  ### I recommend to watch:
-  - Have a look at [Current working repository](https://github.com/iNikitaGricenko/ComputerSystem)
+  - Have a look at [Current working repository](https://github.com/iNikitaGricenko/E-Commerce-Order-Management-System)
+  - Also [Latest working repository. Task Manager](https://github.com/iNikitaGricenko/TaskManager)
+  - And [Previous working repository. Computer System](https://github.com/iNikitaGricenko/ComputerSystem)
 ### Okey now I let you surfing on my profile. But remember:
  #### ***👀 I’m watching you 👀***
 <p align="center">
