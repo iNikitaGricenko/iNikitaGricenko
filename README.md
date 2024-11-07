@@ -7,9 +7,9 @@
  🧡🤎 Love two things: working as a programmer and the Java programming language
 ```
  ### I recommend to watch:
-  - Have a look at [Current working repository](https://github.com/iNikitaGricenko/E-Commerce-Order-Management-System)
-  - Also [Latest working repository. Task Manager](https://github.com/iNikitaGricenko/TaskManager)
-  - And [Previous working repository. Computer System](https://github.com/iNikitaGricenko/ComputerSystem)
+  - Have a look at [Current working repository. Veterenary Optimization](https://github.com/iNikitaGricenko/VetOptim)
+  - Also [Latest working repository. E-Commerce Platform](https://github.com/iNikitaGricenko/e-commerce-platform)
+  - And [Previous working repository. E-Commerce Order Managemen System](https://github.com/iNikitaGricenko/E-Commerce-Order-Management-System)
 ### Okey now I let you surfing on my profile. But remember:
  #### ***👀 I’m watching you 👀***
 <p align="center">
